@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Logan Ankney
 
-# Your Github username
+# LoganAnkney
